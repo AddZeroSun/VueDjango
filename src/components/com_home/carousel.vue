@@ -2,10 +2,14 @@
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-          <img class="banner" src="../../assets/img/banner1.jpg" alt="">
+        <img class="banner"
+             src="../../assets/img/banner1.jpg"
+             alt="">
       </div>
-       <div class="swiper-slide">
-          <img class="banner" src="../../assets/img/banner2.jpg" alt="">
+      <div class="swiper-slide">
+        <img class="banner"
+             src="../../assets/img/banner2.jpg"
+             alt="">
       </div>
     </div>
     <!-- 如果需要分页器 -->
@@ -28,7 +32,7 @@ export default {
   watch: {},
   methods: {
     initSwiper () {
-      let swiper = new Swiper('.swiper-container', {
+      var swiper = new Swiper('.swiper-container', {
         slidesPerView: 1,
         spaceBetween: 30,
         loop: true,
@@ -54,12 +58,12 @@ export default {
   width: 100%;
   height: 760px;
 }
-.swiper-slide{
-   width: 100%;
+.swiper-slide {
+  width: 100%;
   height: 100%;
 }
-.banner{
-    width: 100%;
-    height: 100%;
+.banner {
+  width: 100%;
+  height: 100%;
 }
 </style>
