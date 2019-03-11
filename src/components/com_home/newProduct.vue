@@ -7,13 +7,14 @@
       <div class="product_show">
         <div class="product_box">
           <div class="product_img">
-            <img src="../../assets/img/Big_icon1.png" alt="产品图标1">
+            <img src="../../assets/img/newproduct.jpg"
+                 alt="产品图标1">
           </div>
           <div class="product_name">
-            <p>最新产品</p>
+            <p>M17 电瓶驱动驾驶式扫洗一体机</p>
           </div>
           <div class="product_abstract">
-            <p>采用自身模块规范编写的开源前端 UI 框架，遵循原生 HTML/CSS/JS 开发模式</p>
+            <p>多功能的 M17 电瓶扫洗一体机，降低了反复清洁的需求。</p>
           </div>
           <div class="product_link">
             <a href="javascript:void(0)">产品详情>></a>
@@ -21,13 +22,14 @@
         </div>
         <div class="product_box">
           <div class="product_img">
-            <img src="../../assets/img/Big_icon2.png" alt="产品图标2">
+            <img src="../../assets/img/newproduct.jpg"
+                 alt="产品图标1">
           </div>
           <div class="product_name">
-            <p>最新产品</p>
+            <p>M17 电瓶驱动驾驶式扫洗一体机</p>
           </div>
           <div class="product_abstract">
-            <p>采用自身模块规范编写的开源前端 UI 框架，遵循原生 HTML/CSS/JS 开发模式</p>
+            <p>多功能的 M17 电瓶扫洗一体机，降低了反复清洁的需求。</p>
           </div>
           <div class="product_link">
             <a href="javascript:void(0)">产品详情>></a>
@@ -35,13 +37,14 @@
         </div>
         <div class="product_box">
           <div class="product_img">
-            <img src="../../assets/img/Big_icon3.png" alt="产品图标3">
+            <img src="../../assets/img/newproduct.jpg"
+                 alt="产品图标1">
           </div>
           <div class="product_name">
-            <p>最新产品</p>
+            <p>M17 电瓶驱动驾驶式扫洗一体机</p>
           </div>
           <div class="product_abstract">
-            <p>采用自身模块规范编写的开源前端 UI 框架，遵循原生 HTML/CSS/JS 开发模式</p>
+            <p>多功能的 M17 电瓶扫洗一体机，降低了反复清洁的需求。</p>
           </div>
           <div class="product_link">
             <a href="javascript:void(0)">产品详情>></a>
@@ -49,13 +52,14 @@
         </div>
         <div class="product_box">
           <div class="product_img">
-            <img src="../../assets/img/Big_icon4.png" alt="产品图标4">
+            <img src="../../assets/img/newproduct.jpg"
+                 alt="产品图标1">
           </div>
           <div class="product_name">
-            <p>最新产品</p>
+            <p>M17 电瓶驱动驾驶式扫洗一体机</p>
           </div>
           <div class="product_abstract">
-            <p>采用自身模块规范编写的开源前端 UI 框架，遵循原生 HTML/CSS/JS 开发模式</p>
+            <p>多功能的 M17 电瓶扫洗一体机，降低了反复清洁的需求。</p>
           </div>
           <div class="product_link">
             <a href="javascript:void(0)">产品详情>></a>
@@ -74,7 +78,7 @@ export default {
   computed: {},
   watch: {},
   methods: {},
-  mounted () {}
+  mounted () { }
 }
 </script>
 
@@ -104,10 +108,9 @@ export default {
 }
 .product_box {
   width: 251px;
-  height: 300px;
+  height: 420px;
   float: left;
   margin: 4px 12px;
-  padding: 30px;
   box-sizing: border-box;
   border: 1px solid #dedede;
   transition: 0.3s;
@@ -118,26 +121,32 @@ export default {
 }
 .product_img {
   width: 100%;
-  height: 64px;
+  height: 240px;
+  line-height: 240px;
 }
 .product_img img {
-  width: 64px;
-  height: 64px;
+  max-width: 80%;
+  height: auto;
 }
 .product_name {
   color: #939393;
-  width: 100%;
+  width: 80%;
   height: 40px;
-  line-height: 40px;
+  margin: 0 auto;
   font-size: 18px;
-  padding: 10px 0;
+  line-height: 20px;
 }
 .product_abstract {
+  padding-top: 10px;
+  width: 80%;
+  height: 80px;
+  margin: 0 auto;
   font-size: 16px;
+  line-height: 20px;
   color: #ababab;
 }
 .product_link {
-  padding: 20px 0;
+  /* padding-top: 20px; */
   width: 100%;
   height: 30px;
   font-size: 18px;

@@ -32,6 +32,6 @@ export default {
 </script>
 <style scoped>
 .product{
-  margin-top: 80px;
+  /* margin-top: 80px; */
 }
 </style>

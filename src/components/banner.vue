@@ -17,7 +17,7 @@ export default {
 <style scoped>
 .banner {
   width: 100%;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 .banner_containner {
   position: relative;

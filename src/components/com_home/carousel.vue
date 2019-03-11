@@ -3,12 +3,12 @@
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img class="banner"
-             src="../../assets/img/banner1.jpg"
+             src="../../assets/img/carousel1.jpg"
              alt="">
       </div>
       <div class="swiper-slide">
         <img class="banner"
-             src="../../assets/img/banner2.jpg"
+             src="../../assets/img/carousel2.jpg"
              alt="">
       </div>
     </div>
@@ -36,6 +36,7 @@ export default {
         slidesPerView: 1,
         spaceBetween: 30,
         loop: true,
+        autoplay: true,
         pagination: {
           el: '.swiper-pagination',
           clickable: true
@@ -56,7 +57,7 @@ export default {
 <style scoped>
 .swiper-container {
   width: 100%;
-  height: 760px;
+  height: 500px;
 }
 .swiper-slide {
   width: 100%;

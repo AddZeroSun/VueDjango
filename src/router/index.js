@@ -5,6 +5,8 @@ import main from '@/components/main'
 import footer from '@/components/footer'
 import product from '@/components/product'
 import news from '@/components/news'
+import surport from '@/components/surport'
+import aboutus from '@/components/aboutus'
 Vue.use(Router)
 
 export default new Router({
@@ -33,6 +35,24 @@ export default new Router({
       components: {
         'header': header,
         'main': news,
+        'footer': footer
+      }
+    },
+    {
+      path: '/surport',
+      name: 'surport',
+      components: {
+        'header': header,
+        'main': surport,
+        'footer': footer
+      }
+    },
+    {
+      path: '/aboutus',
+      name: 'aboutus',
+      components: {
+        'header': header,
+        'main': aboutus,
         'footer': footer
       }
     }

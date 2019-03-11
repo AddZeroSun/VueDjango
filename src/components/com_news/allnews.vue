@@ -136,23 +136,26 @@ export default {
   padding-top: 10px;
 }
 .page_box {
+  margin-top: 30px;
   float: left;
   width: 100%;
   height: 50px;
-  background-color: brown;
   text-align: center;
   line-height: 50px;
 }
 .page_box a {
-  display: inline-block;
-  box-sizing: border-box;
+  /* display: inline-block; */
+  /* box-sizing: border-box; */
   background-color: #40c3bd;
-  width: 50px;
-  /* padding: 0 40px; */
+  width: 100%;
+  height: 100%;
+  margin: 0 40px;
+  border-radius: 5px;
+  padding: 10px 20px;
 }
 .page_box span {
-  display: inline-block;
-  width: 50px;
+  padding: 10px 10px;
   background-color: #40c3bd;
+  border-radius: 5px;
 }
 </style>

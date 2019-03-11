@@ -4,13 +4,19 @@
       <div class="show_box">
         <div class="box_img">
           <a href="javascript:void(0)">
-            <img src="../../assets/img/Product_img1.jpg"
+            <img src="../../assets/img/m17-left.png"
                  alt="产品展示">
           </a>
         </div>
         <div class="box_model">
-          <p class="model_title">layuiAdmin</p>
-          <p class="model_detail">完全基于 layui 实现而成的通用型后台管理模板，供单页版和 iframe 版两种选择。 其中 layuiAdmin pro （单页版）是完全基于 layui 架构而成的后台管理模板系统，可以更轻松地实现前后端分离，它是 mvc 的简化版，全面接管 视图 和 页面路由，并可自主完成数据渲染，服务端通常只负责数据接口，而前端只需专注视图和事件交互，所有的页面动作都是在一个宿主页面中完成，因此这赋予了 layuiAdmin 单页面应用开发的能力。layuiAdmin.std（iframe 版） 是完全基于 layui 架构而成的通用型后台管理模板系统，采用传统的 iframe 多页面开发模式，可更快速直接地开发网页后台应用程序，无需过多地学习成本，简单高效，撸起袖子直接干。</p>
+          <p class="model_title">M17 电瓶驱动驾驶式扫洗一体机</p>
+          <p class="model_detail">M17 电瓶式扫洗一体机通过最优化效率的设计性能，提高了生产率，并实现高性能的效果。
+            凭借 DFS™（双动力清扫）技术，只需单次驶过，即可扫除大大小小的碎片。
+            采用坦能创新的 ec-H2O™ 电解水洗地技术，可将单箱水的清洗时间延长三倍，用水量减少 70%。
+            配备卓越的两级灰尘控制系统，采用零排放电瓶供电，有利于保持室内空气质量。
+            前置式驾驶室、安装在方向盘上的控制按钮和工程学视线设计，可以提高操作可视性。
+            通过直观的控制和易于识别的黄色触点，提供轻松的操作和维护体验。
+            通过同级别最大容量的电瓶供电能力，延长清洁时间。</p>
           <div class="model_link">
             <a href="javascript:void(0)">产品详情></a>
           </div>
@@ -19,13 +25,61 @@
       <div class="show_box">
         <div class="box_img">
           <a href="javascript:void(0)">
-            <img src="../../assets/img/Product_img1.jpg"
+            <img src="../../assets/img/m17-left.png"
                  alt="产品展示">
           </a>
         </div>
         <div class="box_model">
-          <p class="model_title">layuiAdmin</p>
-          <p class="model_detail">完全基于 layui 实现而成的通用型后台管理模板，供单页版和 iframe 版两种选择。 其中 layuiAdmin pro （单页版）是完全基于 layui 架构而成的后台管理模板系统，可以更轻松地实现前后端分离，它是 mvc 的简化版，全面接管 视图 和 页面路由，并可自主完成数据渲染，服务端通常只负责数据接口，而前端只需专注视图和事件交互，所有的页面动作都是在一个宿主页面中完成，因此这赋予了 layuiAdmin 单页面应用开发的能力。layuiAdmin.std（iframe 版） 是完全基于 layui 架构而成的通用型后台管理模板系统，采用传统的 iframe 多页面开发模式，可更快速直接地开发网页后台应用程序，无需过多地学习成本，简单高效，撸起袖子直接干。</p>
+          <p class="model_title">M17 电瓶驱动驾驶式扫洗一体机</p>
+          <p class="model_detail">M17 电瓶式扫洗一体机通过最优化效率的设计性能，提高了生产率，并实现高性能的效果。
+            凭借 DFS™（双动力清扫）技术，只需单次驶过，即可扫除大大小小的碎片。
+            采用坦能创新的 ec-H2O™ 电解水洗地技术，可将单箱水的清洗时间延长三倍，用水量减少 70%。
+            配备卓越的两级灰尘控制系统，采用零排放电瓶供电，有利于保持室内空气质量。
+            前置式驾驶室、安装在方向盘上的控制按钮和工程学视线设计，可以提高操作可视性。
+            通过直观的控制和易于识别的黄色触点，提供轻松的操作和维护体验。
+            通过同级别最大容量的电瓶供电能力，延长清洁时间。</p>
+          <div class="model_link">
+            <a href="javascript:void(0)">产品详情></a>
+          </div>
+        </div>
+      </div>
+      <div class="show_box">
+        <div class="box_img">
+          <a href="javascript:void(0)">
+            <img src="../../assets/img/m17-left.png"
+                 alt="产品展示">
+          </a>
+        </div>
+        <div class="box_model">
+          <p class="model_title">M17 电瓶驱动驾驶式扫洗一体机</p>
+          <p class="model_detail">M17 电瓶式扫洗一体机通过最优化效率的设计性能，提高了生产率，并实现高性能的效果。
+            凭借 DFS™（双动力清扫）技术，只需单次驶过，即可扫除大大小小的碎片。
+            采用坦能创新的 ec-H2O™ 电解水洗地技术，可将单箱水的清洗时间延长三倍，用水量减少 70%。
+            配备卓越的两级灰尘控制系统，采用零排放电瓶供电，有利于保持室内空气质量。
+            前置式驾驶室、安装在方向盘上的控制按钮和工程学视线设计，可以提高操作可视性。
+            通过直观的控制和易于识别的黄色触点，提供轻松的操作和维护体验。
+            通过同级别最大容量的电瓶供电能力，延长清洁时间。</p>
+          <div class="model_link">
+            <a href="javascript:void(0)">产品详情></a>
+          </div>
+        </div>
+      </div>
+      <div class="show_box">
+        <div class="box_img">
+          <a href="javascript:void(0)">
+            <img src="../../assets/img/m17-left.png"
+                 alt="产品展示">
+          </a>
+        </div>
+        <div class="box_model">
+          <p class="model_title">M17 电瓶驱动驾驶式扫洗一体机</p>
+          <p class="model_detail">M17 电瓶式扫洗一体机通过最优化效率的设计性能，提高了生产率，并实现高性能的效果。
+            凭借 DFS™（双动力清扫）技术，只需单次驶过，即可扫除大大小小的碎片。
+            采用坦能创新的 ec-H2O™ 电解水洗地技术，可将单箱水的清洗时间延长三倍，用水量减少 70%。
+            配备卓越的两级灰尘控制系统，采用零排放电瓶供电，有利于保持室内空气质量。
+            前置式驾驶室、安装在方向盘上的控制按钮和工程学视线设计，可以提高操作可视性。
+            通过直观的控制和易于识别的黄色触点，提供轻松的操作和维护体验。
+            通过同级别最大容量的电瓶供电能力，延长清洁时间。</p>
           <div class="model_link">
             <a href="javascript:void(0)">产品详情></a>
           </div>

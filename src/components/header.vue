@@ -21,11 +21,11 @@
         <a @click="changeNav(3)"
            :class="{nav_active:cur==3}"
            class="nav"
-           href="javascript:void(0);">案例</a>
+           href="javascript:void(0);">服务支持</a>
         <a @click="changeNav(4)"
            :class="{nav_active:cur==4}"
            class="nav"
-           href="javascript:void(0);">关于</a>
+           href="javascript:void(0);">关于我们</a>
       </div>
     </div>
   </div>
@@ -53,9 +53,9 @@ export default {
       } else if (this.cur === 2) {
         this.$router.push({ path: '/news', name: 'news', params: { id: this.cur } })
       } else if (this.cur === 3) {
-
+        this.$router.push({ path: '/surport', name: 'surport', params: { id: this.cur } })
       } else {
-
+        this.$router.push({ path: '/aboutus', name: 'aboutus', params: { id: this.cur } })
       }
     },
     handleScroll () {
@@ -64,7 +64,7 @@ export default {
       if (scrollTop > 100) {
         navDiv.style.background = 'rgba(255, 255, 255)'
       } else {
-        navDiv.style.background = 'rgba(255, 255, 255, 0.6)'
+        navDiv.style.background = 'rgba(255, 255, 255, 0.8)'
       }
     }
   },
@@ -88,7 +88,7 @@ export default {
   top: 0;
   left: 0;
   z-index: 99;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.8);
   box-shadow: 2px 0px 10px #48484866;
 }
 .header_container {
@@ -110,17 +110,17 @@ export default {
 .header_right {
   height: 80px;
   float: right;
+  margin-right: 50px;
 }
 .nav {
   text-decoration: none;
   display: inline-block;
-  width: 40px;
   height: 78px;
   font-size: 18px;
   text-align: center;
   line-height: 78px;
   border-bottom: 2px solid rgba(255, 255, 255, -0.6);
-  margin-left: 106px;
+  margin-left: 100px;
   color: #000000;
 }
 .nav:hover {
